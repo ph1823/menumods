@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mainmenu",
+  "name": "CustomMainMeny by ph1823",
+  "description": "Use to modify the main menu.",
+  "version": "${version}",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ph1823"],
+  "credits": "The Forge and FML guys, for making this API, Rubis for design and ph1823 for making code",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
