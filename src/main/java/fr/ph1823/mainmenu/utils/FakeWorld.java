@@ -1,7 +1,6 @@
 package fr.ph1823.mainmenu.utils;
 
 import net.minecraft.client.multiplayer.ChunkProviderClient;
-import net.minecraft.client.multiplayer.WorldClient;
 import net.minecraft.profiler.Profiler;
 import net.minecraft.util.math.BlockPos;
 import net.minecraft.world.*;

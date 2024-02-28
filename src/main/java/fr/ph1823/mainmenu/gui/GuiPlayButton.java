@@ -2,7 +2,6 @@ package fr.ph1823.mainmenu.gui;
 
 import fr.ph1823.mainmenu.CustomMainMenuMods;
 import net.minecraft.client.Minecraft;
-import net.minecraft.client.gui.FontRenderer;
 import net.minecraft.client.gui.GuiButton;
 import net.minecraft.client.renderer.GlStateManager;
 import net.minecraft.util.ResourceLocation;
