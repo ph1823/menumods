@@ -117,7 +117,7 @@ public class CustomMainMenu extends GuiScreen {
     {
         if (button.id == 1)
         {
-            FMLClientHandler.instance().connectToServer(this, new ServerData("MyLife", "montanarp.datahosting.fr", false));
+            FMLClientHandler.instance().connectToServer(this, new ServerData("MontanaRP", "montana.datahosting.fr", false));
         }
 
         if (button.id == 2)
